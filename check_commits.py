@@ -4,7 +4,7 @@ import os
 # Constants
 GITHUB_REPO_OWNER = "devopsaziz"
 GITHUB_REPO_NAME = "htmlassignment"
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "*****************"
 LAST_COMMIT_FILE = "/home/ubuntu/assignment/last_commit.txt"
 
 # Function to get the latest commit from the GitHub repository
